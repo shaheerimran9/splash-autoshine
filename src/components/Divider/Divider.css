@@ -1,0 +1,25 @@
+.divider {
+    padding: 3rem 0;
+    margin: 1rem 0;
+    text-align: center;
+}
+
+.divider__heading {
+    font-size: 2rem;
+    font-weight: 400;
+    margin-bottom: 2rem;
+}
+
+.divider__heading::after {
+    content: "";
+    width: 6.5rem;
+    height: .15rem;
+    display: block;
+    background-color: #6a6a6a;
+    margin: 1rem auto;
+}
+
+.divider__subheading {
+    color: #0091EA;
+    font-size: 1.15rem;
+}

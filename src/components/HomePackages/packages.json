@@ -1,0 +1,386 @@
+[
+	{
+		"type": "Regular Sized Car",
+		"packages": [
+			{
+				"name": "Basic Hand Wash",
+				"price": 29.95,
+				"time": 30,
+				"features": [
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum",
+					"Lorem ipsum dolor"
+				]
+			},
+			{
+				"name": "Deluxe Wash",
+				"price": 45.99,
+				"time": 50,
+				"features": [
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum",
+					"Lorem ipsum dolor",
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum dolor",
+					"Lorem ipsum"
+				]
+			},
+			{
+				"name": "Silver Wash",
+				"price": 69.99,
+				"time": 70,
+				"features": [
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum",
+					"Lorem ipsum dolor",
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum dolor",
+					"Lorem ipsum",
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum dolor",
+					"Lorem ipsum",
+					"Lorem ipsum dolor"
+				]
+			},
+			{
+				"name": "Gold Wash",
+				"price": 95.99,
+				"time": 110,
+				"features": [
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum",
+					"Lorem ipsum dolor",
+					"Lorem ipsum",
+					"Lorem ipsum dolor",
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum dolor",
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum",
+					"Lorem ipsum dolor",
+					"Lorem ipsum",
+					"Lorem ipsum dolor"
+				]
+			}
+		]
+	},
+	{
+		"type": "Medium Sized Car",
+		"packages": [
+			{
+				"name": "Basic Hand Wash",
+				"price": 49.95,
+				"time": 30,
+				"features": [
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum",
+					"Lorem ipsum dolor"
+				]
+			},
+			{
+				"name": "Deluxe Wash",
+				"price": 65.99,
+				"time": 50,
+				"features": [
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum",
+					"Lorem ipsum dolor",
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum dolor",
+					"Lorem ipsum"
+				]
+			},
+			{
+				"name": "Silver Wash",
+				"price": 89.99,
+				"time": 70,
+				"features": [
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum",
+					"Lorem ipsum dolor",
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum dolor",
+					"Lorem ipsum",
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum dolor",
+					"Lorem ipsum",
+					"Lorem ipsum dolor"
+				]
+			},
+			{
+				"name": "Gold Wash",
+				"price": 115.99,
+				"time": 110,
+				"features": [
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum",
+					"Lorem ipsum dolor",
+					"Lorem ipsum",
+					"Lorem ipsum dolor",
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum dolor",
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum",
+					"Lorem ipsum dolor",
+					"Lorem ipsum",
+					"Lorem ipsum dolor"
+				]
+			}
+		]
+	},
+	{
+		"type": "Compact SUV",
+		"packages": [
+			{
+				"name": "Basic Hand Wash",
+				"price": 45.95,
+				"time": 30,
+				"features": [
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum",
+					"Lorem ipsum dolor"
+				]
+			},
+			{
+				"name": "Deluxe Wash",
+				"price": 61.99,
+				"time": 50,
+				"features": [
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum",
+					"Lorem ipsum dolor",
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum dolor",
+					"Lorem ipsum"
+				]
+			},
+			{
+				"name": "Silver Wash",
+				"price": 83.99,
+				"time": 70,
+				"features": [
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum",
+					"Lorem ipsum dolor",
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum dolor",
+					"Lorem ipsum",
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum dolor",
+					"Lorem ipsum",
+					"Lorem ipsum dolor"
+				]
+			},
+			{
+				"name": "Gold Wash",
+				"price": 105.99,
+				"time": 110,
+				"features": [
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum",
+					"Lorem ipsum dolor",
+					"Lorem ipsum",
+					"Lorem ipsum dolor",
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum dolor",
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum",
+					"Lorem ipsum dolor",
+					"Lorem ipsum",
+					"Lorem ipsum dolor"
+				]
+			}
+		]
+	},
+	{
+		"type": "Minivan",
+		"packages": [
+			{
+				"name": "Basic Hand Wash",
+				"price": 60.95,
+				"time": 30,
+				"features": [
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum",
+					"Lorem ipsum dolor"
+				]
+			},
+			{
+				"name": "Deluxe Wash",
+				"price": 75.99,
+				"time": 50,
+				"features": [
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum",
+					"Lorem ipsum dolor",
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum dolor",
+					"Lorem ipsum"
+				]
+			},
+			{
+				"name": "Silver Wash",
+				"price": 91.99,
+				"time": 70,
+				"features": [
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum",
+					"Lorem ipsum dolor",
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum dolor",
+					"Lorem ipsum",
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum dolor",
+					"Lorem ipsum",
+					"Lorem ipsum dolor"
+				]
+			},
+			{
+				"name": "Gold Wash",
+				"price": 124.99,
+				"time": 110,
+				"features": [
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum",
+					"Lorem ipsum dolor",
+					"Lorem ipsum",
+					"Lorem ipsum dolor",
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum dolor",
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum",
+					"Lorem ipsum dolor",
+					"Lorem ipsum",
+					"Lorem ipsum dolor"
+				]
+			}
+		]
+	},
+	{
+		"type": "Pickup Truck",
+		"packages": [
+			{
+				"name": "Basic Hand Wash",
+				"price": 66.95,
+				"time": 30,
+				"features": [
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum",
+					"Lorem ipsum dolor"
+				]
+			},
+			{
+				"name": "Deluxe Wash",
+				"price": 83.99,
+				"time": 50,
+				"features": [
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum",
+					"Lorem ipsum dolor",
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum dolor",
+					"Lorem ipsum"
+				]
+			},
+			{
+				"name": "Silver Wash",
+				"price": 99.99,
+				"time": 70,
+				"features": [
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum",
+					"Lorem ipsum dolor",
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum dolor",
+					"Lorem ipsum",
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum dolor",
+					"Lorem ipsum",
+					"Lorem ipsum dolor"
+				]
+			},
+			{
+				"name": "Gold Wash",
+				"price": 132.99,
+				"time": 110,
+				"features": [
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum",
+					"Lorem ipsum dolor",
+					"Lorem ipsum",
+					"Lorem ipsum dolor",
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum dolor",
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum",
+					"Lorem ipsum dolor",
+					"Lorem ipsum",
+					"Lorem ipsum dolor"
+				]
+			}
+		]
+	},
+	{
+		"type": "Cargo Truck",
+		"packages": [
+			{
+				"name": "Basic Hand Wash",
+				"price": 79.95,
+				"time": 30,
+				"features": [
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum",
+					"Lorem ipsum dolor"
+				]
+			},
+			{
+				"name": "Deluxe Wash",
+				"price": 97.99,
+				"time": 50,
+				"features": [
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum",
+					"Lorem ipsum dolor",
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum dolor",
+					"Lorem ipsum"
+				]
+			},
+			{
+				"name": "Silver Wash",
+				"price": 108.99,
+				"time": 70,
+				"features": [
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum",
+					"Lorem ipsum dolor",
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum dolor",
+					"Lorem ipsum",
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum dolor",
+					"Lorem ipsum",
+					"Lorem ipsum dolor"
+				]
+			},
+			{
+				"name": "Gold Wash",
+				"price": 140.99,
+				"time": 110,
+				"features": [
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum",
+					"Lorem ipsum dolor",
+					"Lorem ipsum",
+					"Lorem ipsum dolor",
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum dolor",
+					"Lorem ipsum dolor sit amet",
+					"Lorem ipsum",
+					"Lorem ipsum dolor",
+					"Lorem ipsum",
+					"Lorem ipsum dolor"
+				]
+			}
+		]
+	}
+]

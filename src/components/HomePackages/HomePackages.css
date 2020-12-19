@@ -1,0 +1,52 @@
+.home-packages {
+    padding: 0 2rem;
+    margin-bottom: 4rem;
+}
+
+.home-packages__packages {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 4rem;
+}
+
+.package {
+    border: 1px solid #E2E6E7;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    margin: .5rem;
+    width: 170px;
+    height: 150px;
+    transition: background .2s ease-in-out;
+}
+
+.package__icon {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+.package__name {
+
+    font-size: 1.2rem;
+}
+
+.package:hover, .package.selected {
+    color: #ffffff;
+    background: #199CDB;
+    border: none;
+}
+
+.package.selected {
+    transition: background .2s ease-in-out;
+}
+
+.home-washes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}

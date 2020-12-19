@@ -1,0 +1,76 @@
+.home-process {
+    background: linear-gradient(
+        to right,
+        rgba(0,0,0,0.4),
+        rgba(0,0,0,0.4)),  
+        url('../../img/washcloth.jpeg') center center/cover;
+    background-attachment: fixed;
+    min-height: 30rem;
+}
+
+.home-process__title {
+    padding: 5rem 0 2rem 0;
+    margin: 2rem 0;
+    text-align: center;
+}
+
+.title__heading {
+    color: #ffffff;
+    font-size: 2rem;
+    font-weight: 400;
+    margin-bottom: 2rem;
+}
+
+.title__heading::after {
+    content: "";
+    width: 6.5rem;
+    height: .15rem;
+    display: block;
+    background-color: #ffffff;
+    margin: 1rem auto;
+}
+
+.title__subheading {
+    color: #ffffff;
+    font-size: 1.15rem;
+}
+
+.home-process__steps {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.step {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.step__icon {
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    border: 1px solid #ffffff;
+    border-radius: 50%;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 1rem;
+}
+
+.step__description {
+    color: #ffffff;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+@media(max-width: 765px) {
+    .home-process__steps {
+        flex-direction: column;
+        min-height: 50rem;
+    }
+}

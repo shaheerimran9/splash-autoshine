@@ -1,0 +1,93 @@
+.home-about {
+    color: #777777;
+    display: flex;
+    padding: 1rem 2.5rem;
+    margin-bottom: 5rem;
+}
+
+.home-about__image {
+    background: url('../../img/carwash.jpg') center center/cover;
+    flex: 1;
+}
+
+.home-about__content {
+    display: flex;
+    flex-direction: column;
+    flex: 2;
+    margin-left: 3rem;
+}
+
+.content-primary {
+    font-size: 1.15rem;
+    line-height: 2.25rem;
+    margin: .5rem 0 2rem 0;
+}
+
+.content-secondary {
+    display: flex;
+}
+
+.content-secondary__section {
+    margin: 0 .5rem;
+    flex: 1;
+}
+
+.section-icon {
+    color: #0091EA;
+    margin: 1rem 0;
+    font-size: 2.25rem;
+}
+
+.section-heading {
+    color: #000000;
+    font-size: 1.35rem;
+    font-weight: 400;
+    letter-spacing: .1rem;
+    margin: 1rem 0;
+}
+
+
+.section-list {
+    list-style-type: none;
+    list-style-position: inside;
+}
+
+.section-list li {
+    font-size: 1.05rem;
+    margin: 1rem 0;
+}
+
+.section-list li::before {
+    content: '\2713';
+    color: #0091EA;
+}
+
+.section-list li span {
+    padding-left: .5rem;
+}
+
+@media(max-width: 765px) {
+    .home-about {
+        flex-direction: column;
+        padding: 1rem 1.5rem;
+    }
+
+    .home-about__image {
+        flex: none;
+        height: 15rem;
+        width: 100%;
+        margin-bottom: 1.5rem;
+    }
+
+    .home-about__content {
+        margin-left: 0;
+    }
+
+    .content-secondary {
+        flex-direction: column;
+    }
+
+    .content-secondary__section {
+        margin: 1rem 0;
+    }
+}
