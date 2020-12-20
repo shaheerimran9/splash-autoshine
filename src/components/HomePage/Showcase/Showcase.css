@@ -1,5 +1,8 @@
 .showcase {
-    background: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('../../img/showcase.jpg') center center/cover;
+    background: linear-gradient(to right, 
+    rgba(0,0,0,0.5), 
+    rgba(0,0,0,0.5)),
+    url('../../../img/showcase.jpg') center center/cover;
     position: relative;
     min-height: 90vh;
 }

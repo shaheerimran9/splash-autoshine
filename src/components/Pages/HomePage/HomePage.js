@@ -1,11 +1,11 @@
 import React from 'react';
 
-import Showcase from '../../Showcase/Showcase';
-import Divider from '../../Divider/Divider';
-import HomeContent from '../../HomeContent/HomeContent';
-import HomeProcess from '../../HomeProcess/HomeProcess';
-import HomePackages from '../../HomePackages/HomePackages';
-import HomeTeam from '../../HomeTeam/HomeTeam';
+import Showcase from '../../HomePage/Showcase/Showcase';
+import Divider from '../../Shared/Divider/Divider';
+import HomeContent from '../../HomePage/HomeContent/HomeContent';
+import HomeProcess from '../../HomePage/HomeProcess/HomeProcess';
+import HomePackages from '../../HomePage/HomePackages/HomePackages';
+import HomeTeam from '../../HomePage/HomeTeam/HomeTeam';
 
 const HomePage = () => {
     return (

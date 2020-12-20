@@ -3,7 +3,7 @@
         to right,
         rgba(0,0,0,0.4),
         rgba(0,0,0,0.4)),  
-        url('../../img/washcloth.jpeg') center center/cover;
+        url('../../../img/washcloth.jpeg') center center/cover;
     background-attachment: fixed;
     min-height: 30rem;
 }

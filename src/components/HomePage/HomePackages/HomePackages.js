@@ -3,11 +3,10 @@ import React, { useState, useEffect } from 'react';
 import './HomePackages.css';
 
 import packages from './packages.json';
-import Divider from '../Divider/Divider';
+import Divider from '../../Shared/Divider/Divider';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCar, faShuttleVan, faTruck, faTruckPickup } from '@fortawesome/free-solid-svg-icons';
 import HomePackageList from '../HomePackageList/HomePackageList';
-
 
 const HomePackages = () => {
     const [currentPackage, setCurrentPackage] = useState('Regular Sized Car');

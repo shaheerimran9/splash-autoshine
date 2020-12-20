@@ -6,7 +6,7 @@
 }
 
 .home-about__image {
-    background: url('../../img/carwash.jpg') center center/cover;
+    background: url('../../../img/carwash.jpg') center center/cover;
     flex: 1;
 }
 

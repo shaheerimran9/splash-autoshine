@@ -4,7 +4,7 @@
 }
 
 .home-team__img {
-    background: url('../../img/team.jpg') center center/cover;
+    background: url('../../../img/team.jpg') center center/cover;
     flex: 1;
 }
 

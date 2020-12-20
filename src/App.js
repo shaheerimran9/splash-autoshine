@@ -6,10 +6,10 @@ import {
   Switch
 } from 'react-router-dom';
 
-import Navbar from './components/Navbar/Navbar';
+import Navbar from './components/Shared/Navbar/Navbar';
 import HomePage from './components/Pages/HomePage/HomePage';
 import NotFound from './components/Pages/NotFound/NotFound';
-import Footer from './components/Footer/Footer';
+import Footer from './components/Shared/Footer/Footer';
 
 const App = () => {
   return (
