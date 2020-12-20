@@ -1,5 +1,6 @@
 .wash-package {
     border: 1px solid #E2E6E7; 
+    border-radius: .3rem;
     padding: 1.5rem;
     margin: 1rem;
     width: 10rem;

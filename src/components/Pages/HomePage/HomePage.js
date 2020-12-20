@@ -5,6 +5,7 @@ import Divider from '../../Divider/Divider';
 import HomeContent from '../../HomeContent/HomeContent';
 import HomeProcess from '../../HomeProcess/HomeProcess';
 import HomePackages from '../../HomePackages/HomePackages';
+import HomeTeam from '../../HomeTeam/HomeTeam';
 
 const HomePage = () => {
     return (
@@ -14,6 +15,7 @@ const HomePage = () => {
             <HomeContent />
             <HomeProcess />
             <HomePackages />
+            <HomeTeam />
         </div>
     );
 };

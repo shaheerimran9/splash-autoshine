@@ -69,6 +69,9 @@
 }
 
 @media(max-width: 765px) {
+    .home-process {
+        background-attachment: initial;
+    }
     .home-process__steps {
         flex-direction: column;
         min-height: 50rem;
